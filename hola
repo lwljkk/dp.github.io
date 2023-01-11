@@ -1,0 +1,12 @@
+<div id="poema">
+    <p>Tu mirada es un abismo</p>
+    <p>que me atrae hacia ti</p>
+    <p>Tu sonrisa es un rayo</p>
+    <p>que ilumina mi vida</p>
+    <p>Con tu amor todo es mágico</p>
+    <p>y nada es imposible</p>
+</div>
+
+<p>¿Quieres saber para quién es este hermoso poema?</p>
+
+<button id="boton">A ver, ¿quién es?</button>
