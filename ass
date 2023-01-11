@@ -1,0 +1,26 @@
+#poema {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    color: #ff69b4;
+}
+
+button {
+    background-color: #ff69b4;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor:pointer;
+}
+
+body {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.lHnHj5eVWTm8Ekdqmg4F5wHaF1&pid=Api&P=0");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
